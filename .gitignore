@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+desktop.ini
+
+# Datos (recomendado)
+*.csv
+*.xlsx
+
+# Outputs
+*.png
