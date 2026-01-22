@@ -18,3 +18,12 @@ desktop.ini
 
 # Outputs
 *.png
+
+# Notebooks que no quiero versionar
+Graph_Generator.py
+ProcessingGroupFileForAnalysis.py
+SqlCompletdStatusFirst.py
+SqlConnectedFirst.py
+SqlConnectedFirst1.py
+outlierDetectionV1.py
+outlierDetectionV2.py
